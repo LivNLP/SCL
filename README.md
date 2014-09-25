@@ -1,1 +1,3 @@
-=== Structural Correspondence Learning ===
+README file for Structural Correspondence Learning
+
+# References
